@@ -64,6 +64,11 @@ Evaluate on test data:
 ```bash
 python evaluate.py --model ./models/emotion_model.h5
 ```
+## ▶️ Results
+
+<p align="center">
+  <img src="training_curve_ANAD_2025-08-06_18-53-59.png" alt="App Screenshot" width="300"/>
+</p>
 
 ---
 
