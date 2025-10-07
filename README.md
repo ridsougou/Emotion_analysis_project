@@ -72,6 +72,6 @@ python evaluate.py --model ./models/emotion_model.h5
 
 ---
 
-## 📜 License
+## 📜 Owner
 
-MIT License – feel free to use and modify.
+for any further questions or inquiries, please reach to ridsougou@gmail.com .
